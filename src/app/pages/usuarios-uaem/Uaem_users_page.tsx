@@ -9,7 +9,11 @@ const UaemUsersComponent = () => {
                     <b>
                         {" "}Mapa{" "}
                     </b>
-                    y conocer el trayecto o saber el tiempo estimado de llegada a la parada del camión, toca la imagen del trasporte que deseas abordar.</h1>
+                    y conocer el trayecto o saber el tiempo estimado de llegada a la parada de la RUTA, toca la imagen del trasporte que deseas abordar.
+                    <b>
+                        {" "}Aqui se mostrarán los caminos de las RUTAS que llegan o pasan cerca de la UAEM Campus Chamilpa.
+                    </b>
+                </h1>
             </div>
             <div className=" p-2 mt-10 flex flex-col gap-4 justify-center items-center">
                 {listaCamionesUserUAEM.map((camion, index) => (

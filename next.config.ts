@@ -10,7 +10,7 @@ const nextConfig: NextConfig = {
       },
       {
         protocol: "https",
-        hostname: "safeture.com",
+        hostname: "static-00.iconduck.com",
       },
     ],
   },
