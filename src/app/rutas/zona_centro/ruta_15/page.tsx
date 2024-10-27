@@ -13,7 +13,7 @@ export default function Ruta_15() {
         <div className="flex flex-col justify-center items-center text-center">
             < div className="p-2 flex flex-row w-full gap-6 justify-center items-center text-center bg-orange-600 bg-opacity-15 rounded-bl-lg rounded-br-lg">
                 <h1 className='text-[25px] font-extrabold text-orange-600 border-b-4 border-b-orange-600'>RUTA 15</h1>
-                <Image src="/rutas/centro/ruta_15.png" alt='image_ruta_1' width={100} height={100} className='border-b-4 border-b-black' />
+                <Image src="/centro/ruta_15.png" alt='image_ruta_1' width={100} height={100} className='border-b-4 border-b-black' />
             </div>
             <button className='m-5 p-2 rounded-xl text-white bg-orange-500'
                 onClick={handleRegresar}

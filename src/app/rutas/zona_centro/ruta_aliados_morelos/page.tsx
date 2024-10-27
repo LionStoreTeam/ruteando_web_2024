@@ -13,7 +13,7 @@ export default function Ruta_Aliados_Morelos() {
         <div className="flex flex-col justify-center items-center text-center">
             < div className="p-2 flex flex-row w-full gap-6 justify-center items-center text-center bg-cyan-600 bg-opacity-15 rounded-bl-lg rounded-br-lg">
                 <h1 className='text-[25px] font-extrabold text-cyan-600 border-b-4 border-b-cyan-600'>RUTA ALIADOS MORELOS</h1>
-                <Image src="/rutas/centro/aliados_urban.png" alt='image_ruta_1' width={100} height={100} className='border-b-4 border-b-black' />
+                <Image src="/centro/aliados_urban.png" alt='image_ruta_1' width={100} height={100} className='border-b-4 border-b-black' />
             </div>
             <button className='m-5 p-2 rounded-xl text-white bg-cyan-500'
                 onClick={handleRegresar}
