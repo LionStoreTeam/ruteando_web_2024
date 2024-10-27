@@ -28,7 +28,7 @@ const HomePage = () => {
                         <b>
                             {" "}UAEM{" "}
                         </b>
-                        Presiona el botón de <i>"Mostrar RUTAS UAEM" </i>
+                        Presiona el botón de <i>Mostrar RUTAS UAEM </i>
                         para ver las RUTAS que se dirigen o salen de la UAEM Campus Chamilpa.
                     </h1>
                     <div className="p-2 flex justify-center items-center">
@@ -46,7 +46,7 @@ const HomePage = () => {
                         <b>
                             {" "}Usuario Normal{" "}
                         </b>
-                        Presiona el botón de <i>"Mostrar Todas las RUTAS" </i>
+                        Presiona el botón de <i>Mostrar Todas las RUTAS </i>
                         para ver todas las RUTAS de la entidad separada por áreas.
                     </h1>
                     <div className="p-2 flex justify-center items-center">
