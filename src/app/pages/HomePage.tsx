@@ -1,5 +1,4 @@
 "use client"
-
 import Image from "next/image";
 import Link from "next/link";
 
@@ -51,7 +50,7 @@ const HomePage = () => {
                         para ver todas las RUTAS de la entidad separada por áreas.
                     </h1>
                     <div className="p-2 flex justify-center items-center">
-                        <Image src="https://static-00.iconduck.com/assets.00/user-group-illustration-2048x1508-3m8qw8mc.png" alt="" width={120} height={120} />
+                        <Image src="https://static-00.iconduck.com/assets.00/user-group-illustration-2048x1508-3m8qw8mc.png" alt="users_home_logo" width={120} height={120} />
                     </div>
                     <div className="p-2 flex justify-center items-center">
                         <Link href="/pages/usuarios-normales/zonas-morelos" className="p-2 rounded-md bg-cyan-300 hover:bg-cyan-400 transition-all ease-linear"
