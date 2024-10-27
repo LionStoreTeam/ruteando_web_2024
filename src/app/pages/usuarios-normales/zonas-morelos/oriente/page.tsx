@@ -11,7 +11,7 @@ export default function ZonaOrientePage() {
                 <BaseLogo />
                 <h1 className='text-[25px] font-extrabold text-purple-800'>ZONA ORIENTE</h1>
                 <h1 className='text-[25px] font-extrabold text-black'>CONTENIDO DISPONIBLE PRÓXIMAMENTE</h1>
-                <Image src="/oriente/zona_oriente.png" alt='' width={300} height={300} />
+                <Image src="/rutas/oriente/zona_oriente.png" alt='mapa_zona_oriente' width={300} height={300} />
             </div>
         </div>
     )

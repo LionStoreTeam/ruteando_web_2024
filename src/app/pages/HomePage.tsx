@@ -32,7 +32,7 @@ const HomePage = () => {
                         para ver las RUTAS que se dirigen o salen de la UAEM Campus Chamilpa.
                     </h1>
                     <div className="p-2 flex justify-center items-center">
-                        <Image src="https://www.uaem.mx/vida-universitaria/identidad-universitaria/images/uaem-logo.png" alt="" width={120} height={120} />
+                        <Image src="https://www.uaem.mx/vida-universitaria/identidad-universitaria/images/uaem-logo.png" alt="uaem_logo" width={120} height={120} />
                     </div>
                     <div className="p-2 flex justify-center items-center">
                         <Link href="/pages/usuarios-uaem" className="p-2 rounded-md bg-blue-900 text-white hover:bg-blue-700 transition-all ease-linear"

@@ -28,7 +28,7 @@ export default function ZonasMorelos() {
             <Link href="/pages/usuarios-normales/zonas-morelos/centro">
                 <div className="mt-5 p-4 flex flex-col justify-center items-center text-center bg-pink-300 bg-opacity-30 rounded-xl">
                     <h1 className='text-[25px] font-extrabold text-pink-600 border-b-4 border-t-4 border-pink-600'>ZONA CENTRO</h1>
-                    <Image src="/centro/zona_centro.png" alt='' width={300} height={300} />
+                    <Image src="/centro/zona_centro.png" alt='mapa_zona_centro' width={300} height={300} />
                     <div className="flex flex-col justify-center items-center text-start">
                         <h2 className='text-[20px] font-semibold text-gray-800'>Las zonas que integran el área CENTRO son:</h2>
                         <ol className='pt-3 grid grid-cols-2 '>
@@ -47,7 +47,7 @@ export default function ZonasMorelos() {
             <Link href="/pages/usuarios-normales/zonas-morelos/oriente">
                 <div className="mt-5 mb-5 p-4 flex flex-col justify-center items-center text-center bg-purple-300 bg-opacity-30 rounded-xl">
                     <h1 className='text-[25px] font-extrabold text-purple-700 border-b-4 border-t-4 border-purple-700'>ZONA ORIENTE</h1>
-                    <Image src="/oriente/zona_oriente.png" alt='' width={300} height={300} />
+                    <Image src="/rutas/oriente/zona_oriente.png" alt='mapa_zona_oriente' width={300} height={300} />
                     <div className="flex flex-col justify-center items-center text-start">
                         <h2 className='text-[20px] font-semibold text-gray-800'>Las zonas que integran el área ORIENTE son:</h2>
                         <ol className='pt-3 grid grid-cols-2 '>
@@ -76,7 +76,7 @@ export default function ZonasMorelos() {
             <Link href="/pages/usuarios-normales/zonas-morelos/sur">
                 <div className="mt-5 p-4 flex flex-col justify-center items-center text-center bg-amber-900 bg-opacity-30 rounded-xl">
                     <h1 className='text-[25px] font-extrabold text-amber-900 border-b-4 border-t-4 border-amber-900'>ZONA SUR</h1>
-                    <Image src="/sur/zona_sur.png" alt='' width={300} height={300} />
+                    <Image src="/rutas/sur/zona_sur.png" alt='mapa_zona_sur' width={300} height={300} />
                     <div className="flex flex-col justify-center items-center text-start">
                         <h2 className='text-[20px] font-semibold text-gray-800'>Las zonas que integran el área SUR son:</h2>
                         <ol className='pt-3 grid grid-cols-2 '>

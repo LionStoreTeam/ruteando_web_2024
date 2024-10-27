@@ -11,7 +11,7 @@ export default function ZonaSurPage() {
                 <BaseLogo />
                 <h1 className='text-[25px] font-extrabold text-amber-900'>ZONA SUR</h1>
                 <h1 className='text-[25px] font-extrabold text-black'>CONTENIDO DISPONIBLE PRÓXIMAMENTE</h1>
-                <Image src="/sur/zona_sur.png" alt='' width={300} height={300} />
+                <Image src="/rutas/sur/zona_sur.png" alt='mapa_zona_sur' width={300} height={300} />
             </div>
         </div>
     )
